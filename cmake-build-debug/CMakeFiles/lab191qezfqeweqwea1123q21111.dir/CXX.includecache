@@ -1,0 +1,180 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files/PostgreSQL/16/include/openssl/bn.h
+openssl/macros.h
+-
+openssl/e_os2.h
+-
+stdio.h
+-
+openssl/opensslconf.h
+-
+openssl/types.h
+-
+openssl/crypto.h
+-
+openssl/bnerr.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/bnerr.h
+openssl/opensslconf.h
+-
+openssl/symhacks.h
+-
+openssl/cryptoerr_legacy.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/configuration.h
+
+C:/Program Files/PostgreSQL/16/include/openssl/core.h
+stddef.h
+-
+openssl/types.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/crypto.h
+openssl/macros.h
+-
+stdlib.h
+-
+time.h
+-
+openssl/e_os2.h
+-
+stdio.h
+-
+openssl/safestack.h
+-
+openssl/opensslv.h
+-
+openssl/types.h
+-
+openssl/opensslconf.h
+-
+openssl/cryptoerr.h
+-
+openssl/core.h
+-
+openssl/ebcdic.h
+-
+openssl/symhacks.h
+-
+openssl/opensslv.h
+-
+spthread.h
+-
+pthread.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/cryptoerr.h
+openssl/opensslconf.h
+-
+openssl/symhacks.h
+-
+openssl/cryptoerr_legacy.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/cryptoerr_legacy.h
+openssl/macros.h
+-
+openssl/symhacks.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/e_os2.h
+openssl/macros.h
+-
+openssl/opensslconf.h
+-
+strings.h
+-
+spthread.h
+-
+pthread.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/ebcdic.h
+openssl/macros.h
+-
+stdlib.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/macros.h
+openssl/opensslconf.h
+-
+openssl/opensslv.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/opensslconf.h
+openssl/configuration.h
+-
+openssl/macros.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/opensslv.h
+openssl/macros.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/safestack.h
+openssl/macros.h
+-
+openssl/stack.h
+-
+openssl/e_os2.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/stack.h
+openssl/macros.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/symhacks.h
+openssl/macros.h
+-
+openssl/e_os2.h
+-
+
+C:/Program Files/PostgreSQL/16/include/openssl/types.h
+limits.h
+-
+openssl/e_os2.h
+-
+openssl/safestack.h
+-
+openssl/macros.h
+-
+
+C:/Users/yaidf/CLionProjects/lab19/User.h
+openssl/bn.h
+-
+iostream
+-
+
+C:/Users/yaidf/CLionProjects/lab19/hash.cpp
+iostream
+-
+fstream
+-
+memory.h
+-
+sstream
+-
+
+C:/Users/yaidf/CLionProjects/lab19/main.cpp
+cstdio
+-
+hash.cpp
+C:/Users/yaidf/CLionProjects/lab19/hash.cpp
+User.h
+C:/Users/yaidf/CLionProjects/lab19/User.h
+stdlib.h
+-
+

@@ -1,0 +1,3 @@
+C:/Users/yaidf/CLionProjects/lab19/cmake-build-debug/CMakeFiles/crypto1.dir
+C:/Users/yaidf/CLionProjects/lab19/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yaidf/CLionProjects/lab19/cmake-build-debug/CMakeFiles/rebuild_cache.dir

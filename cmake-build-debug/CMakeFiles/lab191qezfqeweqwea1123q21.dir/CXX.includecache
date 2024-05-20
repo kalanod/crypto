@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yaidf/CLionProjects/lab19/hash.cpp
+iostream
+-
+fstream
+-
+memory.h
+-
+
+C:/Users/yaidf/CLionProjects/lab19/main.cpp
+cstdio
+-
+hash.cpp
+C:/Users/yaidf/CLionProjects/lab19/hash.cpp
+stdlib.h
+-
+
